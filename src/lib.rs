@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-catalog: data catalog model.
 //!
 //! Real implementation: datasets, schemas, lineage, and validation.
